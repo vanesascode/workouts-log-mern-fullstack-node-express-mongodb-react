@@ -1,0 +1,49 @@
+h1 {
+  font-size: 50px;
+  color: transparent;
+  text-decoration: none;
+  background: linear-gradient(450deg, var(--primary), #3e1da2);
+  -webkit-background-clip: text; /*for older browser versions that did not support the standard "background-clip" property at the time. */
+  background-clip: text;
+  /* margin-right: 50px; */
+}
+
+header button {
+  background: var(--primary);
+  border: 0;
+  color: #fff;
+  padding: 10px;
+  font-family: "Poppins";
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 40px;
+}
+
+header {
+  background: #fff;
+}
+header .container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+@media (min-width: 550px) {
+  /*applies a style when the viewport width is more than or equal to...*/
+  header .container {
+    height: 150px;
+  }
+}
+
+header a {
+  color: #333;
+  text-decoration: none;
+}
+.pages {
+  max-width: 1400px;
+  padding: 20px;
+  margin: 0 auto;
+}
