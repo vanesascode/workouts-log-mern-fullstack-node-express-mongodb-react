@@ -22,7 +22,7 @@ How to start:
 - [ ] run: `npm install express`
 - [ ] start the express app (see code in server.js)
 
-## running the server
+## Running the server
 
 - We can start the app by running: `node server.js`
 
