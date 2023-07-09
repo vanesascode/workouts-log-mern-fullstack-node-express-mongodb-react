@@ -2,7 +2,7 @@
 
 ## Mongodb + Express + React + Node
 
-In the video you can see how it looks and what it does. Notice this app is still in development stage running on a local domain. It is a learning project and you can find all my notes during the process, which helped me understand everything better, below the video. 👇👇👇👇
+In the video you can see how it looks and what it does. Notice this app is still in development stage running on a local domain. It is a learning project and you can find all my notes during the process, which helped me understand everything better, below the video. 👇👇👇
 
 ***
 https://github.com/vanesascode/workouts-app-MERN-FULLSTACK-node-express-mongodb-react/assets/131259155/08f26bc3-c995-40a4-a235-bacaa5582ab7
