@@ -4,7 +4,8 @@ import './App.css'
 // pages & components
 import Home from './pages/Home';
 import Tips from './pages/Tips';
-import Navbar from './components/Navbar'
+import Footer from './components/Footer';
+import Navbar from './components/Navbar';
 
 function App() {
 
@@ -24,6 +25,7 @@ function App() {
             />
           </Routes>
         </div>
+        <Footer />
       </BrowserRouter>
     </div>
   );
