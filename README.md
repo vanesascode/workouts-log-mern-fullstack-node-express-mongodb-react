@@ -1,4 +1,4 @@
-# Workouts app with MERN full stack development framework and MVC approach:
+# Workouts Log with MERN full stack development framework and MVC approach:
 
 ## Mongodb + Express + React + Node
 
