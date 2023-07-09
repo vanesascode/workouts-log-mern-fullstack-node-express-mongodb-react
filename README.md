@@ -4,15 +4,15 @@
 
 In the video you can see how it looks and what it does. Notice this app is still in development stage running on a local domain. It is a learning project and you can find all my notes during the process, which helped me understand everything better, below the video. 👇👇👇
 
----
-
----
+***
+https://github.com/vanesascode/workouts-app-MERN-FULLSTACK-node-express-mongodb-react/assets/131259155/08f26bc3-c995-40a4-a235-bacaa5582ab7
+***
 
 When combined Mongodb + Express + React + Node, these technologies enable developers to create end-to-end web applications using JavaScript for both the front-end and back-end. This allows for seamless data flow between the client and server and promotes code reusability and maintainability.
 
 Let's have a look at the backend and frontend parts of this app separately:
 
-# BACKEND
+# 💥 BACKEND 💥
 
 How to start:
 
@@ -154,7 +154,7 @@ To better understand the connection between the server, the routes, the controll
 3. We export these functions to the workoutRoutes.js file, where we have a router object initialized using the express.Router() method. We also have all the route handlers, with their root path ("/") and their proper function from the workoutRoutes.js file.
 4. Finally we export these endpoints from the workoutRoutes into our server.js file, our main file of the Express application. We use the app.use method to register a middleware function for handling the requests with a specific main route. The route specified is '/api/workouts', which will follow with the endpoints from the workoutRoutes.js. E.g.: `localhost:4000/api/workouts/64a591a24cdba079efe9fbac`
 
-# FRONTEND
+# 💥 FRONTEND 💥 
 
 How to start:
 
