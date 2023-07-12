@@ -43,6 +43,9 @@ This is a package that loads environment variables from an .env file into the `p
 
 [Postman](https://www.postman.com/) is a platform that enables and makes it easier to create and use APIs. This tool is very useful for programming because it gives the possibility to test and verify the correct functioning of the projects carried out by web developers. In this proyect it was used to test different routes and types of requests in the server.
 
+![first-sent-post-with-postman](https://github.com/vanesascode/workouts-log-mern-fullstack-node-express-mongodb-react/assets/131259155/2a1fd712-eba5-4ed5-b171-b0061fe3c534)
+
+
 > You'll probably have to install it in your computer too, in order to test localhost addesses.
 
 ## Express router
@@ -63,6 +66,8 @@ This is a piece of middleware in the server.js file that, for any request that c
 MongoDB is a noSQL database, which means that instead of using tables with rows and columns inside the database like a SQL database would, instead it uses documents which resemble JSON objects. It makes it really simple to work with from a node application that uses javascript.
 
 In this app I am using MongoDB Atlas (DBaas). A Cluster is several MongoDB servers working together. I am using a Shared one for learning purposes.
+
+![atlas-first-post-recieved-from-postman](https://github.com/vanesascode/workouts-log-mern-fullstack-node-express-mongodb-react/assets/131259155/b8bba466-104f-46bf-8cf9-e004b3bd7f8f)
 
 Once the project and cluster is set, you can connect the database to server.js file with Mongoose.
 
